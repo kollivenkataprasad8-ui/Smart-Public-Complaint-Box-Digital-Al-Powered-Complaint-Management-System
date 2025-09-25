@@ -1,0 +1,2 @@
+# Smart-Public-Complaint-Box-Digital-Al-Powered-Complaint-Management-System
+In many regions, citizens often struggle to get their complaints about local issues such as damaged roads, irregular water supply, power cuts, or poor sanitation. Traditional methods like complaint letters, or visiting offices are time-consuming, lack transparency, and delay/unsolved result. Citizens has no clarity about weather they after upon
